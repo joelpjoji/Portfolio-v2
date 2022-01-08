@@ -17,11 +17,7 @@ body{
     left:50%;
     transform:translate(-50%,-50%);
   }
-  svg{
-    width:90px;
-    height:90px;  
-  }
-  
+    
   @-webkit-keyframes animate-svg-stroke-1 {
     0% {
       stroke-dashoffset: 1411.9447021484375px;
