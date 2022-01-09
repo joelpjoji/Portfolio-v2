@@ -1,14 +1,13 @@
 {
-  "name": "profile-rebuild",
+  "name": "profile-v2",
   "version": "1.0.0",
   "main": "app.js",
-  "license": "MIT",
   "scripts": {
     "dev": "parcel src/index.html -d public --open -p 3000",
     "build": "parcel build src/index.html -d dist --public-url ./"
   },
   "keywords": [],
-  "author": "",
+  "author": "Joel P Joji",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/plugin-transform-runtime": "^7.10.1",
@@ -17,7 +16,6 @@
     "sass": "^1.35.1"
   },
   "dependencies": {
-    "devtools-detect": "^4.0.0",
     "gsap": "^3.7.0",
     "locomotive-scroll": "^4.1.1",
     "regenerator-runtime": "^0.13.7"
