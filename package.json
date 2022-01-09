@@ -17,6 +17,7 @@
     "sass": "^1.35.1"
   },
   "dependencies": {
+    "devtools-detect": "^4.0.0",
     "gsap": "^3.7.0",
     "locomotive-scroll": "^4.1.1",
     "regenerator-runtime": "^0.13.7"
